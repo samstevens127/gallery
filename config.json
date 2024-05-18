@@ -23,6 +23,14 @@
       "compressed_path": "./photos/people/20240206_0067.min.png",
       "compressed": false,
       "placeholder_path": "./photos/people/20240206_0067.placeholder.png"
+    },
+    {
+      "width": 3283,
+      "height": 3283,
+      "path": "./photos/people/20240318_0008_01.jpg",
+      "compressed_path": "./photos/people/20240318_0008_01.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/people/20240318_0008_01.placeholder.jpg"
     }
   ],
   "other": []
