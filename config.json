@@ -1,30 +1,6 @@
 {
   "people": [
     {
-      "width": 3456,
-      "height": 4608,
-      "path": "./photos/people/20240218_1993.png",
-      "compressed_path": "./photos/people/20240218_1993.min.png",
-      "compressed": false,
-      "placeholder_path": "./photos/people/20240218_1993.placeholder.png"
-    },
-    {
-      "width": 4567,
-      "height": 3415,
-      "path": "./photos/people/20240218_2208.png",
-      "compressed_path": "./photos/people/20240218_2208.min.png",
-      "compressed": false,
-      "placeholder_path": "./photos/people/20240218_2208.placeholder.png"
-    },
-    {
-      "width": 4608,
-      "height": 3456,
-      "path": "./photos/people/20240206_0067.png",
-      "compressed_path": "./photos/people/20240206_0067.min.png",
-      "compressed": false,
-      "placeholder_path": "./photos/people/20240206_0067.placeholder.png"
-    },
-    {
       "width": 3283,
       "height": 3283,
       "path": "./photos/people/20240318_0008_01.jpg",
