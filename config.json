@@ -5,7 +5,7 @@
       "height": 3283,
       "path": "./photos/people/20240318_0008_01.jpg",
       "compressed_path": "./photos/people/20240318_0008_01.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/people/20240318_0008_01.placeholder.jpg"
     }
   ]
