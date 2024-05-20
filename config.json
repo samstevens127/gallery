@@ -9,38 +9,38 @@
       "placeholder_path": "./photos/another/P1010085.placeholder.jpg"
     }
   ],
-  "test": [
+  "first": [
     {
       "width": 4567,
       "height": 3415,
-      "path": "./photos/test/20240218_2208.jpg",
-      "compressed_path": "./photos/test/20240218_2208.min.jpg",
+      "path": "./photos/first/20240218_2208.jpg",
+      "compressed_path": "./photos/first/20240218_2208.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/test/20240218_2208.placeholder.jpg"
+      "placeholder_path": "./photos/first/20240218_2208.placeholder.jpg"
     },
     {
       "width": 3456,
       "height": 4608,
-      "path": "./photos/test/20240218_1993.jpg",
-      "compressed_path": "./photos/test/20240218_1993.min.jpg",
+      "path": "./photos/first/20240218_1993.jpg",
+      "compressed_path": "./photos/first/20240218_1993.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/test/20240218_1993.placeholder.jpg"
+      "placeholder_path": "./photos/first/20240218_1993.placeholder.jpg"
     },
     {
       "width": 3198,
       "height": 4175,
-      "path": "./photos/test/20240218_2172.jpg",
-      "compressed_path": "./photos/test/20240218_2172.min.jpg",
+      "path": "./photos/first/20240218_2172.jpg",
+      "compressed_path": "./photos/first/20240218_2172.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/test/20240218_2172.placeholder.jpg"
+      "placeholder_path": "./photos/first/20240218_2172.placeholder.jpg"
     },
     {
       "width": 3283,
       "height": 3283,
-      "path": "./photos/test/20240318_0008_01.jpg",
-      "compressed_path": "./photos/test/20240318_0008_01.min.jpg",
+      "path": "./photos/first/20240318_0008_01.jpg",
+      "compressed_path": "./photos/first/20240318_0008_01.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/test/20240318_0008_01.placeholder.jpg"
+      "placeholder_path": "./photos/first/20240318_0008_01.placeholder.jpg"
     }
   ]
 }
