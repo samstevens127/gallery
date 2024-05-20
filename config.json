@@ -1,4 +1,14 @@
 {
+  "another": [
+    {
+      "width": 3742,
+      "height": 3144,
+      "path": "./photos/another/P1010085.jpg",
+      "compressed_path": "./photos/another/P1010085.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/another/P1010085.placeholder.jpg"
+    }
+  ],
   "test": [
     {
       "width": 4567,
@@ -23,14 +33,6 @@
       "compressed_path": "./photos/test/20240218_2172.min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/test/20240218_2172.placeholder.jpg"
-    },
-    {
-      "width": 3742,
-      "height": 3144,
-      "path": "./photos/test/P1010085.jpg",
-      "compressed_path": "./photos/test/P1010085.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/test/P1010085.placeholder.jpg"
     },
     {
       "width": 3283,
