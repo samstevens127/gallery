@@ -49,6 +49,14 @@
       "compressed_path": "./photos/people/20240529_1083.min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/people/20240529_1083.placeholder.jpg"
+    },
+    {
+      "width": 2730,
+      "height": 2676,
+      "path": "./photos/people/20240529_0541.jpg",
+      "compressed_path": "./photos/people/20240529_0541.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/people/20240529_0541.placeholder.jpg"
     }
   ]
 }
