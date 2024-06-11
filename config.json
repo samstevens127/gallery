@@ -89,6 +89,22 @@
       "compressed_path": "./photos/outside/20240218_2208.min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/outside/20240218_2208.placeholder.jpg"
+    },
+    {
+      "width": 4608,
+      "height": 3456,
+      "path": "./photos/outside/20240221_0019.jpg",
+      "compressed_path": "./photos/outside/20240221_0019.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/outside/20240221_0019.placeholder.jpg"
+    },
+    {
+      "width": 4608,
+      "height": 3456,
+      "path": "./photos/outside/20240218_1153.jpg",
+      "compressed_path": "./photos/outside/20240218_1153.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/outside/20240218_1153.placeholder.jpg"
     }
   ]
 }
