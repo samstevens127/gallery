@@ -1,4 +1,54 @@
 {
+  "outside": [
+    {
+      "width": 4567,
+      "height": 3415,
+      "path": "./photos/outside/20240218_2208.jpg",
+      "compressed_path": "./photos/outside/20240218_2208.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/outside/20240218_2208.placeholder.jpg"
+    },
+    {
+      "width": 4608,
+      "height": 3456,
+      "path": "./photos/outside/20240218_1153.jpg",
+      "compressed_path": "./photos/outside/20240218_1153.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/outside/20240218_1153.placeholder.jpg"
+    },
+    {
+      "width": 4608,
+      "height": 3456,
+      "path": "./photos/outside/20240221_0019.jpg",
+      "compressed_path": "./photos/outside/20240221_0019.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/outside/20240221_0019.placeholder.jpg"
+    },
+    {
+      "width": 4608,
+      "height": 3456,
+      "path": "./photos/outside/20240727_0333.jpg",
+      "compressed_path": "./photos/outside/20240727_0333.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/outside/20240727_0333.placeholder.jpg"
+    },
+    {
+      "width": 3456,
+      "height": 4608,
+      "path": "./photos/outside/20240727_0372.jpg",
+      "compressed_path": "./photos/outside/20240727_0372.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/outside/20240727_0372.placeholder.jpg"
+    },
+    {
+      "width": 4608,
+      "height": 3456,
+      "path": "./photos/outside/20240727_0410.jpg",
+      "compressed_path": "./photos/outside/20240727_0410.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/outside/20240727_0410.placeholder.jpg"
+    }
+  ],
   "people": [
     {
       "width": 3456,
@@ -25,12 +75,12 @@
       "placeholder_path": "./photos/people/20240318_0008_01.placeholder.jpg"
     },
     {
-      "width": 2730,
-      "height": 2676,
-      "path": "./photos/people/20240529_0541.jpg",
-      "compressed_path": "./photos/people/20240529_0541.min.jpg",
+      "width": 3742,
+      "height": 3144,
+      "path": "./photos/people/P1010085.jpg",
+      "compressed_path": "./photos/people/P1010085.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/people/20240529_0541.placeholder.jpg"
+      "placeholder_path": "./photos/people/P1010085.placeholder.jpg"
     },
     {
       "width": 2131,
@@ -41,20 +91,20 @@
       "placeholder_path": "./photos/people/20240529_1083.placeholder.jpg"
     },
     {
-      "width": 3742,
-      "height": 3144,
-      "path": "./photos/people/P1010085.jpg",
-      "compressed_path": "./photos/people/P1010085.min.jpg",
+      "width": 2730,
+      "height": 2676,
+      "path": "./photos/people/20240529_0541.jpg",
+      "compressed_path": "./photos/people/20240529_0541.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/people/P1010085.placeholder.jpg"
+      "placeholder_path": "./photos/people/20240529_0541.placeholder.jpg"
     },
     {
-      "width": 3449,
-      "height": 3450,
-      "path": "./photos/people/20240306_0013.jpg",
-      "compressed_path": "./photos/people/20240306_0013.min.jpg",
+      "width": 4608,
+      "height": 3456,
+      "path": "./photos/people/20240223_0006.jpg",
+      "compressed_path": "./photos/people/20240223_0006.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/people/20240306_0013.placeholder.jpg"
+      "placeholder_path": "./photos/people/20240223_0006.placeholder.jpg"
     },
     {
       "width": 4608,
@@ -73,12 +123,12 @@
       "placeholder_path": "./photos/people/20240223_0087.placeholder.jpg"
     },
     {
-      "width": 4608,
-      "height": 3456,
-      "path": "./photos/people/20240223_0006.jpg",
-      "compressed_path": "./photos/people/20240223_0006.min.jpg",
+      "width": 3449,
+      "height": 3450,
+      "path": "./photos/people/20240306_0013.jpg",
+      "compressed_path": "./photos/people/20240306_0013.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/people/20240223_0006.placeholder.jpg"
+      "placeholder_path": "./photos/people/20240306_0013.placeholder.jpg"
     },
     {
       "width": 3456,
@@ -129,54 +179,30 @@
       "placeholder_path": "./photos/people/20240727_0449.placeholder.jpg"
     }
   ],
-  "outside": [
+  "learning strobe": [
     {
-      "width": 4567,
-      "height": 3415,
-      "path": "./photos/outside/20240218_2208.jpg",
-      "compressed_path": "./photos/outside/20240218_2208.min.jpg",
+      "width": 3456,
+      "height": 4608,
+      "path": "./photos/learning strobe/20240815_1367.jpg",
+      "compressed_path": "./photos/learning strobe/20240815_1367.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/outside/20240218_2208.placeholder.jpg"
-    },
-    {
-      "width": 4608,
-      "height": 3456,
-      "path": "./photos/outside/20240221_0019.jpg",
-      "compressed_path": "./photos/outside/20240221_0019.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/outside/20240221_0019.placeholder.jpg"
-    },
-    {
-      "width": 4608,
-      "height": 3456,
-      "path": "./photos/outside/20240218_1153.jpg",
-      "compressed_path": "./photos/outside/20240218_1153.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/outside/20240218_1153.placeholder.jpg"
-    },
-    {
-      "width": 4608,
-      "height": 3456,
-      "path": "./photos/outside/20240727_0410.jpg",
-      "compressed_path": "./photos/outside/20240727_0410.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/outside/20240727_0410.placeholder.jpg"
-    },
-    {
-      "width": 4608,
-      "height": 3456,
-      "path": "./photos/outside/20240727_0333.jpg",
-      "compressed_path": "./photos/outside/20240727_0333.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/outside/20240727_0333.placeholder.jpg"
+      "placeholder_path": "./photos/learning strobe/20240815_1367.placeholder.jpg"
     },
     {
       "width": 3456,
       "height": 4608,
-      "path": "./photos/outside/20240727_0372.jpg",
-      "compressed_path": "./photos/outside/20240727_0372.min.jpg",
+      "path": "./photos/learning strobe/20240815_1372.jpg",
+      "compressed_path": "./photos/learning strobe/20240815_1372.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/outside/20240727_0372.placeholder.jpg"
+      "placeholder_path": "./photos/learning strobe/20240815_1372.placeholder.jpg"
+    },
+    {
+      "width": 3456,
+      "height": 4608,
+      "path": "./photos/learning strobe/20240815_1373.jpg",
+      "compressed_path": "./photos/learning strobe/20240815_1373.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/learning strobe/20240815_1373.placeholder.jpg"
     }
   ]
 }
