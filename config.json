@@ -183,14 +183,6 @@
     {
       "width": 3456,
       "height": 4608,
-      "path": "./photos/learning strobe/20240815_1367.jpg",
-      "compressed_path": "./photos/learning strobe/20240815_1367.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/learning strobe/20240815_1367.placeholder.jpg"
-    },
-    {
-      "width": 3456,
-      "height": 4608,
       "path": "./photos/learning strobe/20240815_1372.jpg",
       "compressed_path": "./photos/learning strobe/20240815_1372.min.jpg",
       "compressed": true,
@@ -203,6 +195,14 @@
       "compressed_path": "./photos/learning strobe/20240815_1373.min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/learning strobe/20240815_1373.placeholder.jpg"
+    },
+    {
+      "width": 3456,
+      "height": 4608,
+      "path": "./photos/learning strobe/20240815_1367.jpg",
+      "compressed_path": "./photos/learning strobe/20240815_1367.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/learning strobe/20240815_1367.placeholder.jpg"
     }
   ]
 }
